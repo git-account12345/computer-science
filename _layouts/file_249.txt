@@ -1,0 +1,6 @@
+Name: James Jones
+Email: kellybriana@reed.org
+Phone: +1-204-102-5262
+Address: 53704 Jose Causeway Suite 499, Davidton, AL 03350
+SSN: 538-93-1981
+DOB: 1974-04-22
