@@ -1,0 +1,6 @@
+Name: Cindy Johnson
+Email: rjackson@hall.com
+Phone: 619.651.0247
+Address: 2972 Kara Trafficway, Riceton, MA 03733
+SSN: 761-44-4706
+DOB: 1991-08-15
